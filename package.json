@@ -1,0 +1,26 @@
+{
+  "name": "campuscare",
+  "version": "1.0.0",
+  "description": "> Student Grievance & Campus Issue Resolution Platform",
+  "main": "index.js",
+  "private":true,
+  "workspaces":[
+    "app/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav-singh09/CampusCare.git"
+  },
+  "keywords": [],
+  "author": "Gaurav Singh",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gaurav-singh09/CampusCare/issues"
+  },
+  "homepage": "https://github.com/gaurav-singh09/CampusCare#readme"
+}
+
